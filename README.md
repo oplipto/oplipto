@@ -1,46 +1,37 @@
-```markdown
-# 🎮 GitHub ReadMe of AwesomeCoder9000 🎮
+# 🌟 GitHub ReadMe of Oplipto 🌟
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github)
-![Pygame](https://img.shields.io/badge/Pygame-FFD43B?style=for-the-badge&logo=pygame)
 
 ![Code](https://media.giphy.com/media/3ohzdI6tjBk6ULmb7Y/giphy.gif)
 
 ## 👨‍💻 About Me
 
-- 🌐 I'm a coder who knows Python, Django, HTML, CSS, JavaScript, and is always eager to learn more!
-- 🌱 I'm constantly working on improving my skills and creating amazing projects.
-- 💬 Ask me about anything related to coding, gaming, or even the latest anime!
-- 💡 Fun fact: I'm also a fan of the Death Note anime and love adding a bit of its theme to my projects.
+- 🌐 I'm a coder who knows Python, HTML, CSS, and Git, and I'm currently learning Django!
+- 🌱 I'm excited to grow my skills and create amazing projects.
+- 💬 Ask me about anything related to coding, web development, or even the latest memes!
+- 💡 Fun fact:I love watching Anime's.
 
 ## 📝 Projects
 
 Here are some of my recent projects showcasing my coding skills and creativity:
 
-1. 🐍
+SOON....
 
-## 📝 Projects
+## 🚀 Future Goals
 
-Here are some of my recent projects showcasing my coding skills and creativity:
+- 🦸‍♂️ Become a Django master and create powerful web applications.
+- 🌐 Contribute to open-source projects and collaborate with other amazing developers.
 
-1. 🐍 [Python Project 1](https://github.com/AwesomeCoder9000/Python-Project-1)
-2. 🌐 [Web Application with Django 1](https://github.com/AwesomeCoder9000/Django-Web-App-1)
-3. 🎮 [Fun Game using Python and Pygame 1](https://github.com/AwesomeCoder9000/Pygame-Game-1)
+## 🤝 Connect with Me
 
-## 🤝 Collaborate
+- 📫 [My Email](mailto:oplipto123@example.com) - Feel free to drop me a message or share some memes!
 
-I'm always open to collaborating on new projects or discussing ideas! You can reach me at [yourEmail@example.com](mailto:yourEmail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/awesomecoder9000/).
+## 🎁 Show Some Love
 
-## 📝 License
+If you enjoyed my work, consider giving me a ⭐ star on my repositories or sharing my projects with others. It would mean the world to me!
 
-This project is licensed under the MIT License. For more information, you can refer to the [LICENSE](LICENSE) file.
-
-## 🎨 Credits
-
-- 🖥 [Favicon](https://www.flaticon.com/free-icon/coding_21
+![Thank You](https://giphy.com/gifs/cute-hungry-fat-l3fzNH5k3gX0maobC)
+```
