@@ -33,5 +33,5 @@ SOON....
 
 If you enjoyed my work, consider giving me a ⭐ star on my repositories or sharing my projects with others. It would mean the world to me!
 
-![Thank You](https://giphy.com/gifs/cute-hungry-fat-l3fzNH5k3gX0maobC)
+Thank You
 ```
