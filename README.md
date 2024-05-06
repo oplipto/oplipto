@@ -27,7 +27,7 @@ SOON....
 
 ## 🤝 Connect with Me
 
-- 📫 [My Email](mailto:oplipto123@example.com) - Feel free to drop me a message or share some memes!
+- 📫 [My Email](mailto:oplipto123@gmail.com) - Feel free to drop me a message or share some memes!
 
 ## 🎁 Show Some Love
 
