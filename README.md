@@ -18,7 +18,7 @@
 
 Here are some of my recent projects showcasing my coding skills and creativity:
 
-SOON....
+1: [AnimePengu](https://github.com/oplipto/Django_50DaysChallenge/tree/main/anime): A vibrant playground for anime enthusiasts to manage their collections manually. [Check it out!](https://github.com/oplipto/Django_50DaysChallenge/tree/main/anime)
 
 ## 🚀 Future Goals
 
@@ -34,4 +34,3 @@ SOON....
 If you enjoyed my work, consider giving me a ⭐ star on my repositories or sharing my projects with others. It would mean the world to me!
 
 Thank You
-```
