@@ -1,36 +1,79 @@
-# 🌟 GitHub ReadMe of Oplipto 🌟
+# ROHIT.exe — Still Becoming.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+something+meaningful.;Learn.+Build.+Break.+Rebuild.;Curiosity+over+comfort." alt="Typing animation" />
+</p>
 
-![Code](https://media.giphy.com/media/3ohzdI6tjBk6ULmb7Y/giphy.gif)
+<p align="center">
+  <a href="https://github.com/oplipto">
+    <img src="https://img.shields.io/badge/GitHub-oplipto-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-On_the_Road-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
-## 👨‍💻 About Me
+---
 
-- 🌐 I'm a coder who knows Python, HTML, CSS, and Git, and I'm currently learning Django!
-- 🌱 I'm excited to grow my skills and create amazing projects.
-- 💬 Ask me about anything related to coding, web development, or even the latest memes!
-- 💡 Fun fact:I love watching Anime's.
+### `01 — WHO AM I?`
 
-## 📝 Projects
+Hey, I'm **Rohit**.
 
-Here are some of my recent projects showcasing my coding skills and creativity:
+An aspiring Data Engineer fascinated by data, technology, automation, and the systems running quietly behind the scenes.
 
-1: [AnimePengu](https://github.com/oplipto/Django_50DaysChallenge/tree/main/anime): A vibrant playground for anime enthusiasts to manage their collections manually. [Check it out!](https://github.com/oplipto/Django_50DaysChallenge/tree/main/anime)
+I'm building my skills one concept, one experiment, and one project at a time.
 
-## 🚀 Future Goals
+- **Currently learning:** Python, Pandas, NumPy & SQL
+- **Exploring next:** AWS & Data Engineering
+- **Interested in:** Data pipelines, analytics, automation & building useful products
+- **My mindset:** Understand the why. Practice the how. Build the thing.
 
-- 🦸‍♂️ Become a Django master and create powerful web applications.
-- 🌐 Contribute to open-source projects and collaborate with other amazing developers.
+### `02 — MY TOOLBOX`
 
-## 🤝 Connect with Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,aws,vscode&theme=dark" alt="Technology stack" />
+</p>
 
-- 📫 [My Email](mailto:oplipto123@gmail.com) - Feel free to drop me a message or share some memes!
+<p align="center">
+  <i>Tools change. Problem-solving stays.</i>
+</p>
 
-## 🎁 Show Some Love
+### `03 — THINGS I'M BUILDING`
 
-If you enjoyed my work, consider giving me a ⭐ star on my repositories or sharing my projects with others. It would mean the world to me!
+**Data Engineering Lab**
 
-Thank You
+My personal workspace for coding exercises, experiments, notes, and the journey toward becoming a Data Engineer.
+
+→ [Explore my repositories](https://github.com/oplipto?tab=repositories)
+
+More projects will land here as I turn what I learn into things that actually work.
+
+### `04 — THE MISSION`
+
+- [ ] Get sharper at Python and SQL.
+- [ ] Build confidence solving problems without tutorials.
+- [ ] Create end-to-end data pipelines.
+- [ ] Learn to design and operate cloud-based data systems.
+- [ ] Build projects that demonstrate real skills.
+
+### `05 — A LITTLE PHILOSOPHY`
+
+I don't believe you need to have everything figured out before you begin.
+
+You start with questions. You make mistakes. You rebuild. Slowly, the things that once felt impossible become ordinary.
+
+**The mission isn't to look like an expert. It's to become one.**
+
+<p align="center">
+  <i>"Become so curious that staying the same becomes impossible."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oplipto&style=flat-square&color=00F7FF&label=CURIOUS+VISITORS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>oplipto · Learning in public · Building one commit at a time.</sub>
+</p>
